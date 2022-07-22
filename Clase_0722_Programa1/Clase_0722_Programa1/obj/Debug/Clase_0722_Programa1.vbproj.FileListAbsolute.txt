@@ -1,0 +1,13 @@
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\bin\Debug\Clase_0722_Programa1.exe.config
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\bin\Debug\Clase_0722_Programa1.exe
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\bin\Debug\Clase_0722_Programa1.pdb
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\bin\Debug\Clase_0722_Programa1.xml
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\obj\Debug\Clase_0722_Programa1.vbproj.AssemblyReference.cache
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\obj\Debug\Clase_0722_Programa1.vbproj.SuggestedBindingRedirects.cache
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\obj\Debug\Clase_0722_Programa1.Form1.resources
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\obj\Debug\Clase_0722_Programa1.Resources.resources
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\obj\Debug\Clase_0722_Programa1.vbproj.GenerateResource.cache
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\obj\Debug\Clase_0722_Programa1.vbproj.CoreCompileInputs.cache
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\obj\Debug\Clase_0722_Programa1.exe
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\obj\Debug\Clase_0722_Programa1.xml
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa1\Clase_0722_Programa1\obj\Debug\Clase_0722_Programa1.pdb

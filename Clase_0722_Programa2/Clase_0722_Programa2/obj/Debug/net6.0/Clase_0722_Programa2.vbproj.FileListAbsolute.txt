@@ -1,0 +1,15 @@
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\bin\Debug\net6.0\Clase_0722_Programa2.exe
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\bin\Debug\net6.0\Clase_0722_Programa2.deps.json
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\bin\Debug\net6.0\Clase_0722_Programa2.runtimeconfig.json
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\bin\Debug\net6.0\Clase_0722_Programa2.dll
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\bin\Debug\net6.0\ref\Clase_0722_Programa2.dll
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\bin\Debug\net6.0\Clase_0722_Programa2.pdb
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\obj\Debug\net6.0\Clase_0722_Programa2.vbproj.AssemblyReference.cache
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\obj\Debug\net6.0\Clase_0722_Programa2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\obj\Debug\net6.0\Clase_0722_Programa2.AssemblyInfoInputs.cache
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\obj\Debug\net6.0\Clase_0722_Programa2.AssemblyInfo.vb
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\obj\Debug\net6.0\Clase_0722_Programa2.vbproj.CoreCompileInputs.cache
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\obj\Debug\net6.0\Clase_0722_Programa2.dll
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\obj\Debug\net6.0\ref\Clase_0722_Programa2.dll
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\obj\Debug\net6.0\Clase_0722_Programa2.pdb
+D:\Github\PROGRA2_2S2022\Clase_0722_Programa2\Clase_0722_Programa2\obj\Debug\net6.0\Clase_0722_Programa2.genruntimeconfig.cache
