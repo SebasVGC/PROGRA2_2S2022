@@ -1,0 +1,15 @@
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\bin\Debug\net6.0\Clase_0819_Programa1.exe
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\bin\Debug\net6.0\Clase_0819_Programa1.deps.json
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\bin\Debug\net6.0\Clase_0819_Programa1.runtimeconfig.json
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\bin\Debug\net6.0\Clase_0819_Programa1.dll
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\bin\Debug\net6.0\ref\Clase_0819_Programa1.dll
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\bin\Debug\net6.0\Clase_0819_Programa1.pdb
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\obj\Debug\net6.0\Clase_0819_Programa1.vbproj.AssemblyReference.cache
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\obj\Debug\net6.0\Clase_0819_Programa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\obj\Debug\net6.0\Clase_0819_Programa1.AssemblyInfoInputs.cache
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\obj\Debug\net6.0\Clase_0819_Programa1.AssemblyInfo.vb
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\obj\Debug\net6.0\Clase_0819_Programa1.vbproj.CoreCompileInputs.cache
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\obj\Debug\net6.0\Clase_0819_Programa1.dll
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\obj\Debug\net6.0\ref\Clase_0819_Programa1.dll
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\obj\Debug\net6.0\Clase_0819_Programa1.pdb
+D:\Github\PROGRA2_2S2022\Clase_0819_Programa1\Clase_0819_Programa1\obj\Debug\net6.0\Clase_0819_Programa1.genruntimeconfig.cache
