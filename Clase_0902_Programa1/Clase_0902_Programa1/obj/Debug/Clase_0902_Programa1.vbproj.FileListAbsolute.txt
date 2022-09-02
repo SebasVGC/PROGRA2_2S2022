@@ -1,0 +1,12 @@
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\bin\Debug\Clase_0902_Programa1.exe.config
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\bin\Debug\Clase_0902_Programa1.exe
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\bin\Debug\Clase_0902_Programa1.pdb
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\bin\Debug\Clase_0902_Programa1.xml
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\obj\Debug\Clase_0902_Programa1.vbproj.AssemblyReference.cache
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\obj\Debug\Clase_0902_Programa1.vbproj.SuggestedBindingRedirects.cache
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\obj\Debug\Clase_0902_Programa1.Resources.resources
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\obj\Debug\Clase_0902_Programa1.vbproj.GenerateResource.cache
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\obj\Debug\Clase_0902_Programa1.vbproj.CoreCompileInputs.cache
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\obj\Debug\Clase_0902_Programa1.exe
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\obj\Debug\Clase_0902_Programa1.xml
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa1\Clase_0902_Programa1\obj\Debug\Clase_0902_Programa1.pdb

@@ -1,0 +1,14 @@
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\bin\Debug\Clase_0902_Programa2.exe.config
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\bin\Debug\Clase_0902_Programa2.exe
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\bin\Debug\Clase_0902_Programa2.pdb
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\bin\Debug\Clase_0902_Programa2.xml
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\obj\Debug\Clase_0902_Programa2.vbproj.AssemblyReference.cache
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\obj\Debug\Clase_0902_Programa2.vbproj.SuggestedBindingRedirects.cache
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\obj\Debug\Clase_0902_Programa2.Form1.resources
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\obj\Debug\Clase_0902_Programa2.FormArreglo.resources
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\obj\Debug\Clase_0902_Programa2.Resources.resources
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\obj\Debug\Clase_0902_Programa2.vbproj.GenerateResource.cache
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\obj\Debug\Clase_0902_Programa2.vbproj.CoreCompileInputs.cache
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\obj\Debug\Clase_0902_Programa2.exe
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\obj\Debug\Clase_0902_Programa2.xml
+D:\Nuevo\VisualStudio proy\Clase_0902_Programa2\Clase_0902_Programa2\obj\Debug\Clase_0902_Programa2.pdb
