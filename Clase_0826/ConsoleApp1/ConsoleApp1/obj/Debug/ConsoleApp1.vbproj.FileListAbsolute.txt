@@ -1,0 +1,12 @@
+D:\Nuevo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Nuevo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Nuevo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Nuevo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+D:\Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.AssemblyReference.cache
+D:\Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.SuggestedBindingRedirects.cache
+D:\Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+D:\Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.GenerateResource.cache
+D:\Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.CoreCompileInputs.cache
+D:\Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+D:\Nuevo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
