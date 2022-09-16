@@ -1,0 +1,13 @@
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\bin\Debug\Clase_0916.exe.config
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\bin\Debug\Clase_0916.exe
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\bin\Debug\Clase_0916.pdb
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\bin\Debug\Clase_0916.xml
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\obj\Debug\Clase_0916.vbproj.AssemblyReference.cache
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\obj\Debug\Clase_0916.vbproj.SuggestedBindingRedirects.cache
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\obj\Debug\Clase_0916.Form1.resources
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\obj\Debug\Clase_0916.Resources.resources
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\obj\Debug\Clase_0916.vbproj.GenerateResource.cache
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\obj\Debug\Clase_0916.vbproj.CoreCompileInputs.cache
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\obj\Debug\Clase_0916.exe
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\obj\Debug\Clase_0916.xml
+D:\Nuevo\VisualStudio proy\Clase_0916\Clase_0916\obj\Debug\Clase_0916.pdb
