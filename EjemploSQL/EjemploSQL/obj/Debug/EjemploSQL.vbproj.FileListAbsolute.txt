@@ -14,3 +14,19 @@ C:\Users\SebasVGC\Documents\Sebastian\Proyectos Visual Studio\Windows Forms App\
 C:\Users\SebasVGC\Documents\Sebastian\Proyectos Visual Studio\Windows Forms App\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormMenuAdmin.resources
 C:\Users\SebasVGC\Documents\Sebastian\Proyectos Visual Studio\Windows Forms App\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormRegistro.resources
 C:\Users\SebasVGC\Documents\Sebastian\Proyectos Visual Studio\Windows Forms App\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormPassword.resources
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\bin\Debug\EjemploSQL.exe.config
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\bin\Debug\EjemploSQL.exe
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\bin\Debug\EjemploSQL.pdb
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\bin\Debug\EjemploSQL.xml
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.vbproj.AssemblyReference.cache
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.vbproj.SuggestedBindingRedirects.cache
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.Form1.resources
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormMenuAdmin.resources
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormPassword.resources
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormRegistro.resources
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.Resources.resources
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.vbproj.GenerateResource.cache
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.vbproj.CoreCompileInputs.cache
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.exe
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.xml
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.pdb

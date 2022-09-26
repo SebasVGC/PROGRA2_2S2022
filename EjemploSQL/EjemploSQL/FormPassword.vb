@@ -25,7 +25,7 @@
             MsgBox("Login Exitoso")
 
             'Verificar el tipo usuario para mostrar el menu admin, o el menu cliente
-            If (usrTipo = "Clienet") Then
+            If (usrTipo = "Cliente") Then
                 MsgBox("Cliente")
             Else
                 MsgBox("Admin")
