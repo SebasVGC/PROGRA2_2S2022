@@ -137,6 +137,12 @@
     <Compile Include="FormRegistro.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormSubirFoto.Designer.vb">
+      <DependentUpon>FormSubirFoto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSubirFoto.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -178,6 +184,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormRegistro.resx">
       <DependentUpon>FormRegistro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSubirFoto.resx">
+      <DependentUpon>FormSubirFoto.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
