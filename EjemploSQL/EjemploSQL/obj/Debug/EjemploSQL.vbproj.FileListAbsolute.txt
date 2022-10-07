@@ -30,3 +30,7 @@ C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQ
 C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.exe
 C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.xml
 C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.pdb
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormMenuCliente.resources
+C:\Users\SebasVGC\Documents\SEBASTIAN\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormAdminRegistro.resources
+C:\Users\SebasVGC\Documents\SEBASTIAN\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormClienteAgregarFoto.resources
+C:\Users\SebasVGC\Documents\SEBASTIAN\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormEditarPerfil.resources

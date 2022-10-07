@@ -26,13 +26,19 @@
 
             'Verificar el tipo usuario para mostrar el menu admin, o el menu cliente
             If (usrTipo = "Cliente") Then
-                MsgBox("Cliente")
+                'MsgBox("Cliente")
+                FormMenuCliente.Show()
+                Me.Hide()
             Else
-                MsgBox("Admin")
+                'MsgBox("Admin")
+                FormMenuAdmin.Show()
+                Me.Hide()
             End If
         Else
                 MsgBox("Login Fallido")
         End If
 
+        txtPassword.Text = ""
+        Form1.txtUsername.Text = ""
     End Sub
 End Class
