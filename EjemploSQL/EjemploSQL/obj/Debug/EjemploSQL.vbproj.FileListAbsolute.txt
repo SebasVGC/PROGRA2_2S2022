@@ -35,3 +35,4 @@ C:\Users\SebasVGC\Documents\SEBASTIAN\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQ
 C:\Users\SebasVGC\Documents\SEBASTIAN\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormClienteAgregarFoto.resources
 C:\Users\SebasVGC\Documents\SEBASTIAN\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormEditarPerfil.resources
 C:\Users\SebasVGC\Documents\SEBASTIAN\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormSubirFoto.resources
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormEliminarUser.resources

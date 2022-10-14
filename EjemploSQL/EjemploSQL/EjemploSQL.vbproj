@@ -113,6 +113,12 @@
     <Compile Include="FormEditarPerfil.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormEliminarUser.Designer.vb">
+      <DependentUpon>FormEliminarUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormEliminarUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormMenuAdmin.Designer.vb">
       <DependentUpon>FormMenuAdmin.vb</DependentUpon>
     </Compile>
@@ -172,6 +178,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormEditarPerfil.resx">
       <DependentUpon>FormEditarPerfil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEliminarUser.resx">
+      <DependentUpon>FormEliminarUser.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMenuAdmin.resx">
       <DependentUpon>FormMenuAdmin.vb</DependentUpon>

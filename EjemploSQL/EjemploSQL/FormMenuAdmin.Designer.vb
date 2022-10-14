@@ -24,6 +24,7 @@ Partial Class FormMenuAdmin
     Private Sub InitializeComponent()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button3 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
@@ -44,11 +45,21 @@ Partial Class FormMenuAdmin
         Me.Button2.Text = "Registrar usuario"
         Me.Button2.UseVisualStyleBackColor = True
         '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(335, 224)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(212, 23)
+        Me.Button3.TabIndex = 2
+        Me.Button3.Text = "Eliminar usuario"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
         'FormMenuAdmin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 545)
+        Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "FormMenuAdmin"
@@ -59,4 +70,5 @@ Partial Class FormMenuAdmin
 
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
+    Friend WithEvents Button3 As Button
 End Class
