@@ -143,10 +143,22 @@
     <Compile Include="FormRegistro.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormReportes.Designer.vb">
+      <DependentUpon>FormReportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormSubirFoto.Designer.vb">
       <DependentUpon>FormSubirFoto.vb</DependentUpon>
     </Compile>
     <Compile Include="FormSubirFoto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerVideo.Designer.vb">
+      <DependentUpon>FormVerVideo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerVideo.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Module1.vb" />
@@ -194,8 +206,14 @@
     <EmbeddedResource Include="FormRegistro.resx">
       <DependentUpon>FormRegistro.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormReportes.resx">
+      <DependentUpon>FormReportes.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormSubirFoto.resx">
       <DependentUpon>FormSubirFoto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerVideo.resx">
+      <DependentUpon>FormVerVideo.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -227,6 +245,25 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
