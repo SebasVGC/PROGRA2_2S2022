@@ -166,7 +166,7 @@ Public Class FormSubirFoto
 
         Try
             MiCmd = conexion.CreateCommand
-            Dim consulta As String = "SELECT * FROM ALBUM WHERE USUARIO_ID_USUARIO=" + usrId + ""
+            Dim consulta As String = "SELECT * FROM ALBUM WHERE USUARIO_ID_USUARIO=" + usrId + "  AND TIPO_ALBUM = 'Fotos'"
             MiCmd.CommandText = consulta
             MiLector = MiCmd.ExecuteReader()
 

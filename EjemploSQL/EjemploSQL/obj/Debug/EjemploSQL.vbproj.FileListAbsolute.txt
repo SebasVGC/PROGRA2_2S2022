@@ -37,3 +37,10 @@ C:\Users\SebasVGC\Documents\SEBASTIAN\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQ
 C:\Users\SebasVGC\Documents\SEBASTIAN\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormSubirFoto.resources
 C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormEliminarUser.resources
 C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormReportes.resources
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\bin\Debug\Interop.WMPLib.dll
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\Interop.WMPLib.dll
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.vbproj.ResolveComReference.cache
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormVerVideo.resources
+C:\Users\SebasVGC\Documents\Sebastian\Github\PROGRA2_2S2022\EjemploSQL\EjemploSQL\obj\Debug\EjemploSQL.FormSubirVideo.resources
